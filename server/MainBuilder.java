@@ -3,6 +3,6 @@
  */
 public class MainBuilder {
     public static void main(String[] args) {
-        System.out.println( "Starting" );
+        System.out.println( "Starting the server" );
     }
 }
